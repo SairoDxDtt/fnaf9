@@ -1,0 +1,47 @@
+.younga__container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background: url("https://st3.depositphotos.com/5538628/18248/i/1600/depositphotos_182483846-stock-photo-stylish-cafe-in-the-frosty.jpg") center/cover no-repeat;
+}
+h2{
+    color: #d6ddff;
+    font-size: 100px;
+    line-height: 160px;
+    font-weight: 900;
+    font-family: "Roboto Light",sans-serif;
+}
+h1{
+    color: gray;
+    font-family: "Cambria Math",sans-serif;
+    font-size: 50px;
+    line-height:80px ;
+    font-weight: 100;
+}
+h1:hover{
+    color: red;
+}
+button:hover{
+    font-size: 30px;
+}
+.younga__center{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    width: 100px;
+    height: 50px;
+    background: #c9daff;
+    color: gray;
+}
+.header__container{
+    height: 50px;
+    background: black;
+  display:flex;
+    justify-content: space-around;
+
+}
